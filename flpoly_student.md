@@ -1,27 +1,31 @@
-## First Name Last Name
+## Arselle Conteh
 
-### Term Year 
+### 2022-2026
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Analytic Geometry and Calculus
 
-- Course 2
+- Introduction to computation and programming 
 
-- Course 3
+- Introduction to data science
 
-- Course 4
+- Python for data analytics
 
-**Hobbies:**
+**Hobbies:
+-Biking
+-swimming
+-playing games
+-seeing music construction. 
 
-I am _passionate about_: 
+I am passionate about competitive games/e-sports: 
 
-- Thing 1
+- I want to see how I can use coding to make a video game.
 
-- Thing 2
+- I'm interested in learning how coding can help out in the aerodynamic field.
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- I'm interested to learn how coding algorithms can save lives.
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/09/02
